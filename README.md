@@ -1,7 +1,7 @@
 <h1>Hi, I'm Abhimanyu! <br/><a >Programmer</a>, Data Scientist
   Professional</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Science C++ Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)

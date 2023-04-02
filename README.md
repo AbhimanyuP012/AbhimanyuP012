@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abhimanyu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist
+<h1>Hi, I'm Abhimanyu! <br/><a >Programmer</a>, Data Scientist
   Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
